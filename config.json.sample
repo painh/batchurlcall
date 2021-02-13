@@ -1,0 +1,4 @@
+{
+  "port": "9991",
+  "urls": { "naver": "https://naver.com", "google": "https://google.com" }
+}
